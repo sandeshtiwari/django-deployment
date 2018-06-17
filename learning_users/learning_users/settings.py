@@ -27,7 +27,7 @@ SECRET_KEY = 'kf#=+_e$p2)tana)^oc=z!#)k^qln7z-g)(g7z@itu$eu)d##!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sandeshtiwari.pythonanywhere.com']
 
 
 # Application definition
